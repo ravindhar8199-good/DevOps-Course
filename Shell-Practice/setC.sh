@@ -5,4 +5,4 @@ if [ $num -gt 100 ];then
     else
 	        echo "Small number"
 fi
-echo "Your number was $num
+echo "Your number was $num"
